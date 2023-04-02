@@ -1,4 +1,4 @@
-My name is Zarya [zɐˈrʲa or zar-YAH] (b. 15.9.22, h.7.1.23), and I am a West Siberian Laika! Come join us on our adventures.
+My name is Zarya [zɐˈrʲa or zar-YAH] (b. 15.9.22, h. 7.1.23), and I am a West Siberian Laika! Come join us on our adventures.
 
 Considering donating to my [Puppy Fund](https://paypal.me/bglamours)!
 
