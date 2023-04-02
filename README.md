@@ -1,5 +1,13 @@
-### Hi there 👋
+My name is Zarya [zɐˈrʲa or zar-YAH] (b. ), and I am a West Siberian Laika! Come join us on our adventures.
 
+Considering donating to my [Puppy Fund](https://paypal.me/bglamours)!
+
+### Where to Find Me
+- [YouTube](https://www.youtube.com/@ZaryaTheLaika)
+- [TikTok](https://tiktok.com/@zaryathelaika)
+- [Instagram](https://instagram.com/zaryathelaika)
+- [Flickr](https://www.flickr.com/photos/zaryathelaika/)
+- [Tumblr](https://zaryathelaika.tumblr.com/)
 <!--
 **ZaryaTheLaika/ZaryaTheLaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
