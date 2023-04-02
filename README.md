@@ -3,11 +3,11 @@ My name is Zarya [zɐˈrʲa or zar-YAH] (b. 15.9.22, h.7.1.23), and I am a West 
 Considering donating to my [Puppy Fund](https://paypal.me/bglamours)!
 
 ### Where to Find Me
+- [Instagram](https://instagram.com/zaryathelaika)
 - [YouTube](https://www.youtube.com/@ZaryaTheLaika)
 - [TikTok](https://tiktok.com/@zaryathelaika)
-- [Instagram](https://instagram.com/zaryathelaika)
-- [Flickr](https://www.flickr.com/photos/zaryathelaika/)
 - [Tumblr](https://zaryathelaika.tumblr.com/)
+- [Flickr](https://www.flickr.com/photos/zaryathelaika/)
 <!--
 **ZaryaTheLaika/ZaryaTheLaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
