@@ -1,4 +1,5 @@
 # To Do List
+- Fix up Resources page on Tumblr
 - Mirror Tumblr posts to Cohost
 - Create GitLab Pages
 - Create document explaining why content are not on certain platforms
