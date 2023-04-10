@@ -1,12 +1,15 @@
 # To Do List
-- Fix up Resources page on Tumblr
-- Mirror Tumblr posts to Cohost
-- Create GitLab Pages
-- Create document explaining why content are not on certain platforms
-- Mirror Instagram photos to Pixelfed and Calckey / Misskey
-- Back up Tumblr posts
-- Back up tweets
-- Figure out if it's worth changing liscence to a different Creative Commons
+- [ ] Fix up Resources page on Tumblr
+  - [ ] Fix up links and add file sizes to individual entry in markdown on GitHub
+  - [ ] Convert markdown to HTML 
+- [ ] Mirror Tumblr posts to Cohost
+  - [x] Sign up for Cohost
+- [ ] Create GitLab Pages
+- [ ] Create document explaining why content are not on certain platforms
+- [ ] Mirror Instagram photos to Pixelfed and Calckey / Misskey
+- [ ] Back up Tumblr posts
+- [ ] Back up tweets
+- [ ] Figure out if it's worth changing liscence to a different Creative Commons
 
 If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
