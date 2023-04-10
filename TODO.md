@@ -16,6 +16,7 @@
   - [ ] Address the [100 - 200 links limit](https://ghostflowerdreams.tumblr.com/post/172971851062) on Tumblr
 - [ ] Mirror Tumblr posts to Cohost
   - [x] Sign up for Cohost
+  - [ ] Copy and paste Tumblr posts into Cohost's drafts
 - [ ] Create GitLab Pages
   - [ ] Set up runners for GitLab
 - [ ] Create document explaining why content are not on certain platforms
@@ -27,4 +28,4 @@
 
 If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
-Last updated April 10, 2023 (20:09:18 UTC).
+Last updated April 10, 2023 (23:40:02 UTC).
