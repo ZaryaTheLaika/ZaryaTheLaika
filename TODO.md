@@ -1,7 +1,7 @@
 # To Do List
 - [ ] Fix up Resources page on Tumblr
   - [ ] Fix up links and add file sizes to individual entry in markdown on GitHub
-    - [ ] Create a Table of Contents in markdown 
+    - [x] Create a Table of Contents in markdown 
   - [ ] Add trial documents laikas can participate in
     - [ ] Finland
     - [ ] Sweden
