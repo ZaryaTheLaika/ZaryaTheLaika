@@ -1,6 +1,7 @@
 # To Do List
 - [ ] Fix up Resources page on Tumblr
-  - [ ] Fix up links and add file sizes to individual entry in markdown on GitHub
+  - [ ] Fix with markdown 
+    - [ ] Fix up links and add file sizes to individual entry in markdown on GitHub
     - [x] Create a Table of Contents in markdown 
     - [ ] Sort out uncategorized training articles
     - [ ] Add trial documents laikas can participate in
