@@ -20,7 +20,7 @@
   - [ ] Copy and paste Tumblr posts into Cohost's drafts
 - [ ] Create GitLab Pages
   - [ ] Set up runners for GitLab
-- [ ] Create document explaining why content are not on certain platforms
+- [x] Create document explaining why content are not on certain platforms
 - [ ] Mirror Instagram photos to Pixelfed and Calckey / Misskey
 - [ ] Back up photos to Flickr
 - [ ] Back up Tumblr posts
