@@ -6,7 +6,7 @@ Considering donating to my [Puppy Fund](https://paypal.me/bglamours)!
 - [Instagram](https://instagram.com/zaryathelaika)
 - [YouTube](https://www.youtube.com/@ZaryaTheLaika)
 - [TikTok](https://tiktok.com/@zaryathelaika)
-- [Tumblr](https://zaryathelaika.tumblr.com/)
+- [Tumblr](https://zaryathelaika.tumblr.com/) / [Cohost](https://cohost.org/zaryathelaika)
 - [Flickr](https://www.flickr.com/photos/zaryathelaika/)
 <!--
 **ZaryaTheLaika/ZaryaTheLaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
