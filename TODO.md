@@ -10,9 +10,6 @@
       - [ ] Norway
       - [ ] Russian Federation
       - [ ] Germany
-      - [ ] Belarus
-      - [ ] Poland
-      - [ ] Ukraine
   - [ ] Convert markdown to HTML 
   - [ ] Address the [100 - 200 links limit](https://ghostflowerdreams.tumblr.com/post/172971851062) on Tumblr
 - [ ] Mirror Tumblr posts to Cohost
