@@ -19,9 +19,9 @@
   - [ ] Set up runners for GitLab
 - [ ] Mirror Instagram photos to Pixelfed and Calckey / Misskey
 - [ ] Back up photos to Flickr
-- [ ] Back up Tumblr posts
+- [x] Back up Tumblr posts
 - [ ] Back up tweets
 
 If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
-Last updated April 15, 2023 (14:18:12 UTC).
+Last updated May 7, 2023 (13:06:31 UTC).
