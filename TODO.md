@@ -22,6 +22,6 @@
 - [x] Back up Tumblr posts
 - [ ] Back up tweets
 
-If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/bglamours).
+If you find want me to spend more time on the projects, please consider tipping via [PayPal](https://paypal.me/dessi66).
 
 Last updated May 7, 2023 (13:06:31 UTC).
